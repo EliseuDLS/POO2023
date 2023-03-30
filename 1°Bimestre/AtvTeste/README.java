@@ -1,6 +1,6 @@
 /* Classe impressão de texto: AtvTeste.java
 IFPR - Câmpus Cascavel
-\n Curso: 3°Ano Técnico em Informática
+Curso: 3°Ano Técnico em Informática
 Disciplina: Programação Orientada à Objetos
 Aluno: Eliseu da Luz Silva
 Professor: Nelson Bellincanta
