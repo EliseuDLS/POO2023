@@ -1,4 +1,4 @@
-# 2023INT-POO
+# POO2023
 Atividades da disciplina de POO 
 
 ## Tutorial Git
