@@ -1,6 +1,12 @@
-# POO 2023
-- IFPR Cascavel
-- 3°Ano Técnico em informática.
-Repositório para arquivos da Matéria de Programação Orientada a Objetos.
+# 2023INT-POO
+Atividades da disciplina de POO 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EliseuDLS/POO2023.git/HEAD)
+## Tutorial Git
+
+Guia interativo aprendizado Git (https://learngitbranching.js.org/) 
+
+Associando o GitHub no Visual Studio Code (https://www.youtube.com/watch?v=peGUkhXD3Vw)
+
+## Abrir branch específico em uma instância do [binderhub](https://github.com/jupyterhub/binderhub)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bellincanta/2023INT-POO/HEAD)
