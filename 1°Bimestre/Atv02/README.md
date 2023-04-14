@@ -1,4 +1,4 @@
-# Notebook Atividade 02
+# Notebook Atv02
 Crie uma classe em Java que realize cada uma das seguintes tarefas:
 
 a) Exibir a mensagem “Informe um inteiro: “, deixando o cursor na mesma linha;
