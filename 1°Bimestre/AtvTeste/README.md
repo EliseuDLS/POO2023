@@ -1,7 +1,7 @@
 # Notebook Atividade Teste
 Código que imprime o conteúdo dentro de uma String em aspas duplas
 
-´´´
+´
 public class PrimeiroProgramaJava //declaração da classe
 {
   public static void main(String[] args) //método main inicia a execução do aplicativo Java
@@ -11,4 +11,4 @@ public class PrimeiroProgramaJava //declaração da classe
   } // fim do método main
 } //fim da classe PrimeiroProgramaJava
 
-´´´
+´
