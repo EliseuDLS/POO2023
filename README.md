@@ -1,6 +1,5 @@
 # POO2023
-Atividades da disciplina de POO 
-
+Repositório destinado as atividades da disciplina de POO
 ## Tutorial Git
 
 Guia interativo aprendizado Git (https://learngitbranching.js.org/) 
