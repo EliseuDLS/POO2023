@@ -1,5 +1,5 @@
-# Pasta de atividades do 2° Bimestre de POO
+# Pasta referente as atividades do 2° Bimestre da disciplina de POO
 ## Aluno:
-### - Eliseu da Luz Silva
+### * Eliseu da Luz Silva
 ## Curso:
-### - 3°INF
+### * 3°INF
