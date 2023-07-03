@@ -1,4 +1,4 @@
-# Pasta de atividades do 1° Bimestre de POO
+# Pasta referente as atividades do 1° Bimestre da disciplina de POO
 ## Aluno:
 ### - Eliseu da Luz Silva
 ## Curso:
