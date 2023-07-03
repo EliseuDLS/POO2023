@@ -80,21 +80,21 @@ public class Atv08 {
                             } else {
                                 System.out.println("Não foi possível realizar a compra :( ");
                             }
-
                             break;
                         }
                     }
+			
                     System.out.println("Infelizmente não há assentos disponiveis :( ");
 
                     break;
                 }
 
-                if (assentos[i] == false){
-                    System.out.println("Por favor digite seu nome para efetuar a compra: ");
-                    String nomeCliente = LER.next();
-                    nomesClientes[i] = nomeCliente;
-                    assentos[i] = true;
-                    achouAssento = false;
+                if (assentos[i] == false){ //se achou um assento vazio (false)
+                    System.out.println("Por favor digite seu nome para efetuar a compra: "); 
+                    String nomeCliente = LER.next(); //entrada do nome do cliente em String
+                    nomesClientes[i] = nomeCliente; //adicionando no vetor o nome do cliente
+                    assentos[i] = true; //colocando que o assento foi vendido
+                    achouAssento = false; //achou um assento para de percorrer 
                 } else {
                     i += 1;
                 }
