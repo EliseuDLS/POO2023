@@ -1,28 +1,19 @@
 # Atv01
 ### Aluno: Eliseu da Luz 3°INF
-Suponha que temos os seguintes tipos de animais:
 
+- Suponha que temos os seguintes tipos de animais:
 Mamíferos (superclasse):
-
 Atributos: nome, idade.
 Métodos: emitirSom() e mover().
-
-
 Cachorros (subclasse de Mamíferos):
-
 Atributo adicional: raça.
 Método adicional: abanarRabo().
-
 Aves (superclasse):
-
 Atributos: nome, idade.
 Métodos: emitirSom() e voar().
-
 Pássaros (subclasse de Aves):
-
 Atributo adicional: cor.
 Método adicional: construirNinho().
-
 
 1 - Crie as classes Mamíferos e Aves com seus respectivos atributos e métodos;
 
